@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "first_name": "Jane",
+    "last_name": "Doe"
+  },
+  {
+    "id": 2,
+    "first_name": "John",
+    "middle_initial": "Q",
+    "last_name": "Public",
+    "birth_year": 1971
+  },
+  {
+    "id": 3,
+    "anonymous_user": true,
+    "crm_id": "abc123"
+  },
+  {
+    "id": 4,
+    "first_name": "Albert",
+    "last_name": "Einstein",
+    "profession": "Scientist",
+    "birth_year": 1879,
+    "e_equals_mc_squared": true
+  }
+]
